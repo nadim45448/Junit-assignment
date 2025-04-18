@@ -53,7 +53,7 @@ Before running the automation scripts, ensure the following are installed:
 4. Assert success message:  
     _“Thank you for your submission!”_
   
- **Video Demo:** [ Watch Demo](https://drive.google.com/file/d/1Ho67syMJPSV8pqThn8Drw1Bf7BQvFbB7/view?usp=sharing)  
+ **Video Demo:** [ Watch Demo](https://drive.google.com/file/d/1SkXhhI0Y62Kz4SOS4cIcO_wxiykFSb7I/view?usp=sharing)  
  
  **Report Screenshot:**  
 ![image](https://github.com/user-attachments/assets/3a15c486-15e3-4657-ae2d-f0470ccc2c7d)
@@ -80,7 +80,7 @@ Before running the automation scripts, ensure the following are installed:
 2. Click **Submit**
 3. Assert registration success
   
- **Video Demo:** [ Watch Demo](https://drive.google.com/file/d/1R6vIofpUnk1SN72Us0wiR6DFcUqvnNt8/view?usp=sharing)
+ **Video Demo:** [ Watch Demo](https://drive.google.com/file/d/1wDo-20uNkeFkOYIxFoUFl-TqgGPtuqmB/view?usp=sharing)
  
  **Report Screenshot:**  
 ![image](https://github.com/user-attachments/assets/249b7dfd-d4e7-4542-bdcc-5735048f96c3)
@@ -95,12 +95,14 @@ Before running the automation scripts, ensure the following are installed:
 ###  Steps:
 1. Scrape all table cell values
 2. Print them to the console
-3. Save all values to `share_prices.txt`
+3. Save all values to `value.txt`
   
- **Text Output:** [`outputs/share_prices.txt`](./task3-dsebd-scraper/outputs/share_prices.txt)  
- **Video Demo:** [📺 Watch Demo on Google Drive](https://drive.google.com/file/d/143DiQ7s4C3R1H2j2H54NKEah3AKvDJ6n/view?usp=sharing)  
+ **Text Output:** [`outputs/value.txt`](./src/test/resources/value.txt)  
+ **Video Demo:** [Watch Demo](https://drive.google.com/file/d/1WDxkU2b8aE86uCNPjtnr_Nb6SEL8gs5W/view?usp=sharing)  
+ 
  **Report Screenshot:**  
-![Task 3 Report](./task3-dsebd-scraper/screenshots/report.png)
+![image](https://github.com/user-attachments/assets/3c0e489c-ed64-40a4-be4e-f7d5b728c088)
+
 
 ---
 
