@@ -107,7 +107,7 @@ Before running the automation scripts, ensure the following are installed:
 
 ##  How to Run the Tests
 
-###  Option 1: Using IntelliJ IDEA / Eclipse
+###  Option 1: Using IntelliJ IDEA
 
 1. **Clone the Repository:**
    ```bash
