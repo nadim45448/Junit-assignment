@@ -46,22 +46,27 @@ public class DigitalUnite_1 {
         scrollDown(driver, 400);
         String filepath = Paths.get("src/test/resources/cv.pdf").toAbsolutePath().toString();
         driver.findElement(By.cssSelector("[type=file]")).sendKeys(filepath);
-        Thread.sleep(5000);
+        Thread.sleep(3000);
 
         WebElement checkBox = driver.findElement(By.id("edit-age"));
         if (!checkBox.isSelected()) {
             ((JavascriptExecutor) driver).executeScript("arguments[0].click();", checkBox);
         }
-        Thread.sleep(5000);
+        Thread.sleep(3000);
 
         WebElement submitButton = driver.findElement(By.id("edit-submit"));
         ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView(true);", submitButton);
         ((JavascriptExecutor) driver).executeScript("arguments[0].click();", submitButton);
-        Thread.sleep(3000);
+        Thread.sleep(2000);
 
         String actualResult = driver.findElement(By.id("block-pagetitle-2")).getText();
         Assertions.assertTrue(actualResult.contains("Thank you for your submission!"));
 
+    }
+
+    @AfterAll
+    public void tearDown(){
+        driver.quit();
     }
 
 }
