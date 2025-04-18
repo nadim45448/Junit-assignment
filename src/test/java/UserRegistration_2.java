@@ -34,7 +34,7 @@ public class UserRegistration_2 {
 
         driver.findElement(By.id("first_name")).sendKeys("Nadim");
         driver.findElement(By.id("last_name")).sendKeys("Hossain");
-        driver.findElement(By.id("user_email")).sendKeys("nadim500@gmail.com");
+        driver.findElement(By.id("user_email")).sendKeys("nadim3100@gmail.com");
         driver.findElement(By.id("radio_1665627729_Male")).click();
         driver.findElement(By.id("user_pass")).sendKeys("aA123@#$%zZ");
 

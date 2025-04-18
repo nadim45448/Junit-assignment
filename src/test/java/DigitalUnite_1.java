@@ -60,7 +60,7 @@ public class DigitalUnite_1 {
         Thread.sleep(2000);
 
         String actualResult = driver.findElement(By.id("block-pagetitle-2")).getText();
-        Assertions.assertTrue(actualResult.contains("Thank you for your submission!"));
+        Assertions.assertTrue(actualResult.equals("Thank you for your submission!"));
 
     }
 
