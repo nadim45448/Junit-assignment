@@ -1,10 +1,10 @@
-#  JUnit Automation Assignment
+#  Web Form Automation using Selenium and JUnit
+This repository contains automation solutions for three tasks using **JUnit**, **Selenium WebDriver**, and **Java**.
 
 ---
 
 ##  Overview
-
-This repository includes three JUnit automation tasks:  
+ 
 The automation scripts are designed to complete all required form fields, manage file uploads, submit the forms, and confirm that the appropriate success messages are displayed
 upon submission. The goal is to simplify the web form submission process and ensure that each form is executed and validated correctly.
 In the third task, the script also scrapes data from a web table and stores the extracted information in a text file for further use or validation.
@@ -12,33 +12,6 @@ In the third task, the script also scrapes data from a web table and stores the 
 1.  Web Form Automation – [Digital Unite](https://www.digitalunite.com/practice-webform-learners)  
 2.  Web Form Automation – [Everest Guest Registration](https://demo.wpeverest.com/user-registration/guest-registration-form/)  
 3.  Table Data Scraping – [DSEBD Share Price](https://dsebd.org/latest_share_price_scroll_by_value.php)
-
----
-
-##  Prerequisites
-
-Before running the automation scripts, ensure the following are installed:
-
--  Java JDK 8 or above  
--  Gradle  
--  IntelliJ IDEA 
--  Google Chrome Browser  
--  ChromeDriver (added to system PATH)  
--  Git (for cloning the repository)
-
----
-
-##  Tools & Technologies Used
-
-| Tool/Tech             | Purpose                         |
-|-----------------------|----------------------------------|
-| **Java**              | Core programming language       |
-| **JUnit**             | Unit testing framework          |
-| **Selenium WebDriver**| Browser automation              |
-| **Gradle**            | Dependency & project management |
-| **Git & GitHub**      | Version control & hosting       |
-| **ChromeDriver**      | Automates Google Chrome         |
-| **Extent Reports** *(Optional)* | Test reporting        |
 
 ---
 
@@ -103,6 +76,43 @@ Before running the automation scripts, ensure the following are installed:
  **Report Screenshot:**  
 ![image](https://github.com/user-attachments/assets/3c0e489c-ed64-40a4-be4e-f7d5b728c088)
 
+---
+
+##  Prerequisites
+
+Before running the automation scripts, ensure the following are installed:
+
+-  Java JDK 8 or above  
+-  Gradle  
+-  IntelliJ IDEA 
+-  Google Chrome Browser  
+-  ChromeDriver (added to system PATH)  
+-  Git (for cloning the repository)
+
+---
+
+##  Tools & Technologies Used
+
+| Tool/Tech             | Purpose                         |
+|-----------------------|----------------------------------|
+| **Java**              | Core programming language       |
+| **JUnit**             | Unit testing framework          |
+| **Selenium WebDriver**| Browser automation              |
+| **Gradle**            | Dependency & project management |
+| **Git & GitHub**      | Version control & hosting       |
+| **ChromeDriver**      | Automates Google Chrome         |
+| **Extent Reports** *(Optional)* | Test reporting        |
+
+---
+
+##  How to Run the Tests
+
+###  Option 1: Using IntelliJ IDEA / Eclipse
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/nadim45448/junit-assignment.git
+   cd junit-assignment
 
 ---
 
