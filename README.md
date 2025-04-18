@@ -70,7 +70,8 @@ Before running the automation scripts, ensure the following are installed:
    - First Name  
    - Last Name  
    - Email  
-   - Gender  
+   - Gender
+   - Password
    - Date of Birth  
    - Nationality  
    - Phone Number  
@@ -79,9 +80,11 @@ Before running the automation scripts, ensure the following are installed:
 2. Click **Submit**
 3. Assert registration success
   
- **Video Demo:** [ Watch Demo on Google Drive](https://drive.google.com/file/d/143DiQ7s4C3R1H2j2H54NKEah3AKvDJ6n/view?usp=sharing)  
+ **Video Demo:** [ Watch Demo](https://drive.google.com/file/d/1R6vIofpUnk1SN72Us0wiR6DFcUqvnNt8/view?usp=sharing)
+ 
  **Report Screenshot:**  
-![Task 2 Report](./task2-guest-registration-form/screenshots/report.png)
+![image](https://github.com/user-attachments/assets/249b7dfd-d4e7-4542-bdcc-5735048f96c3)
+
 
 ---
 
