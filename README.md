@@ -26,7 +26,7 @@ In the third task, the script also scrapes data from a web table and stores the 
 4. Assert success message:  
     _“Thank you for your submission!”_
   
- **Video Demo:** [ Watch Demo](https://drive.google.com/file/d/1SkXhhI0Y62Kz4SOS4cIcO_wxiykFSb7I/view?usp=sharing)  
+ **Video Demo:** [ Watch Demo](https://drive.google.com/file/d/1SXkr6sPOwqzlhxqB_ag9UrwF5EiFGYMi/view?usp=sharing)  
  
  **Report Screenshot:**  
 ![image](https://github.com/user-attachments/assets/3a15c486-15e3-4657-ae2d-f0470ccc2c7d)
@@ -53,7 +53,7 @@ In the third task, the script also scrapes data from a web table and stores the 
 2. Click **Submit**
 3. Assert registration success
   
- **Video Demo:** [ Watch Demo](https://drive.google.com/file/d/1wDo-20uNkeFkOYIxFoUFl-TqgGPtuqmB/view?usp=sharing)
+ **Video Demo:** [ Watch Demo](https://drive.google.com/file/d/1IBcHRoagw5SMhAnSAXxYgZ0B3hhGPz3S/view?usp=sharing)
  
  **Report Screenshot:**  
 ![image](https://github.com/user-attachments/assets/249b7dfd-d4e7-4542-bdcc-5735048f96c3)
@@ -71,7 +71,7 @@ In the third task, the script also scrapes data from a web table and stores the 
 3. Save all values to `value.txt`
   
  **Text Output:** [`outputs/value.txt`](./src/test/resources/value.txt)  
- **Video Demo:** [Watch Demo](https://drive.google.com/file/d/1WDxkU2b8aE86uCNPjtnr_Nb6SEL8gs5W/view?usp=sharing)  
+ **Video Demo:** [Watch Demo](https://drive.google.com/file/d/1Mn8AU7IIG5c7V4xsQ2ZfK1ieEDtloS50/view?usp=sharing)  
  
  **Report Screenshot:**  
 ![image](https://github.com/user-attachments/assets/3c0e489c-ed64-40a4-be4e-f7d5b728c088)
